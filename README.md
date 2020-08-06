@@ -13,3 +13,5 @@ Then type your code, and if you're done, <CR> ^d.
 It will compile directly, and your source code is lost forever.
 
 Of course all those programs don't do very much, but they may get longer over time.
+
+You'll have to figure out what they do by yourself.
